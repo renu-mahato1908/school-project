@@ -1,0 +1,220 @@
+.toparea{
+    background: white;
+    padding:  0;
+    position:relative;
+}
+
+.toparea img{
+    width: 100%;
+   height: 500px;
+}
+
+.menuarea{
+    background: white;
+    
+}
+
+.menuarea img{
+    width: 200px;
+   
+}
+
+.abc{
+    padding: 100px 0 ;
+}
+
+.details {
+    position: absolute;
+    bottom: 100px;
+    width: 76%;
+    text-align: center;
+    background: linear-gradient(to right, #024F2D, transparent);
+    padding: 25px 100px;
+    color: white;
+    font: bold 30px verdana;
+    text-shadow:  7px 7px 5px black;
+
+}
+
+
+
+.box{
+    padding: 10px 0;
+    background: white;
+    text-align: center;
+   
+   
+}
+
+
+
+.xyz{
+    padding:10px  300px;
+}
+
+.xyz img:hover{
+    transform:scale(0.8,0.8);
+    transition: all 2s;
+	opacity:1;
+}
+
+.xyz img{
+    border: solid 5px #024F2D;
+}
+.xyz1{
+   padding: 10px 0;
+}
+
+
+.abc{
+    background: #F3F3F5;
+   padding: 10px 0;
+   width: 100%;
+}
+
+.abc img{
+    width: 50px;
+}
+
+
+
+
+
+.third{
+    background: #F3F3F5;
+}
+.third img{
+    width: 50px !important;
+    margin:0;
+}
+.third h6{
+    color:black;
+    margin-top:10px !important;
+    font-weight: bold;
+}
+.third .col{
+    background: red !important;
+}
+
+
+.first{
+    background: #F3F3F5;
+    padding-left: 100px;
+}
+.first img{
+    width:50px;
+    margin: 0;
+}
+
+.first h6{
+    color:gray;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.box3{
+    background:white;
+    padding: 0;
+    width: 400px;
+    border-top:  solid 20px #C98211;
+    border-radius: 20px;
+
+    
+}
+
+.box3 p{
+    text-align: center;
+    padding: 0 20px;
+    font-weight: bolder;
+}
+
+.box3 h6{
+    text-align: center;
+}
+
+.box3 a{
+    text-decoration: none;
+    color:black;
+    font-weight: 400;
+
+}
+
+.box3 p:last-child{
+    color:#C98211;
+}
+
+.mno{
+    background: #f3f5f3;
+}
+
+
+
+.social ul{
+    list-style: none;
+}
+.social ul li{
+    float:left;
+    padding:10px;
+}
+.social .fa-youtube-play:hover{
+    color:#C98211;
+}
+.mainlinks ul{
+    margin: 0;
+    padding: 0;
+}
+.mainlinks ul li{
+    transition: all 2s;
+}
+.mainlinks ul li:hover{
+    transform: translate(10px,0);
+    
+}
+.footer{
+    background: #024F2D;
+}
+.footer img{
+    width: 100px;
+    list-style: none;
+}
+
+.footer ul{
+    list-style: none;
+    
+}
+
+.footer ul li a{
+    text-decoration:none ;
+    color:white;
+}
+
+.footer li a:hover{
+    color:#C98211
+}
+
+.footer h3{
+    color: #F3F3F5;
+}
+
+.footer ul li{
+    color:#F3F3F5;
+    
+}
+
+.list ul li{
+    font-weight: bold;
+
+}
+
+.list ul a{
+    font-weight: lighter;
+}
+
+.footer p{
+    text-align: center;
+    color: white;
+}
+
+.footer hr{
+    color: white;
+}

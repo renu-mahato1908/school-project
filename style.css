@@ -1,0 +1,198 @@
+.toparea{
+    width:100px;
+}
+
+.menuarea{
+    background: white;
+}
+
+.menuarea img{
+    width: 200px;
+   
+}
+
+.abc{
+    padding: 50px 0;
+}
+
+.slidearea{
+    width: 100%;
+}
+
+.boxarea{
+    border:solid 1px black;
+    padding: 20px 0;
+    margin: 0%;
+}
+
+.contentarea{
+    background: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.contentarea p{
+    text-align: justify;
+}
+
+.cont2{
+    background:white;
+    padding:20px 0;
+    text-align: center;
+}
+.cont2 img{
+    width:400px;
+}
+.cont2 p{
+    text-align: justify;
+    padding: 20px 0;
+}
+
+.cont3{
+    background: white;
+    padding: 20px 200px;
+
+}
+
+.cont3 p{
+    text-align: justify;
+}
+
+.cont3 img{
+    width: 400px;
+}
+
+.mno{
+    text-align: right;
+    width: 100px;
+}
+
+.qarea{
+    background: #F3F3F5;
+    text-align: center;
+    padding:20px 0;
+}
+
+.box img{
+    text-align: center;
+    width: 100px;
+    height: 70px;
+}
+
+.iframe{
+    width: 100%;
+}
+
+.addmission{
+    background: white;
+    padding: 20px 0;
+    text-align: center;
+    
+}
+.addmission h1{
+    text-align: center;
+}
+
+.addmission img{
+    width: 100%;
+} 
+
+.addmission button{
+   
+    border:solid 2px #C98211;
+}
+
+.addmission button:hover{
+    color: #C98211;
+    background: white;
+}
+
+.addmission button h3{
+    color: #C98211;
+}
+
+.sign{
+    width:100px !important;
+    float: right;
+}
+/*
+.footer {
+    background: #024226;
+    padding: 20px 0;
+    color:white;
+    
+}
+
+.social ul{
+    list-style: none;
+}
+.social ul li{
+    float:left;
+    padding:10px;
+}
+.social .fa-youtube-play:hover{
+    color:#C98211;
+}
+.mainlinks ul{
+    margin: 0;
+    padding: 0;
+}
+.mainlinks ul li{
+    transition: all 2s;
+}
+.mainlinks ul li:hover{
+    transform: translate(10px,0);
+    //transform: translateX(10px); 
+}
+.footer img{
+    width: 100px;
+    list-style: none;
+}
+
+.footer ul{
+    list-style: none;
+    
+}
+
+.footer ul li a{
+    text-decoration:none ;
+    color:white;
+}
+
+.footer li a:hover{
+    color:#C98211
+}
+
+
+
+.box{
+    text-align: center;
+}
+
+.pqr{
+    padding: 100px;
+}
+
+.xy{
+    text-align: right;
+    width: 50px;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+.nav-link:hover{
+    color:green !important;
+}
+.mno{
+    color: #C98211;
+}
+
+.list ul li{
+    font-weight: bold;
+
+}
+
+.list ul a{
+    font-weight: lighter;
+}*/

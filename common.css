@@ -1,0 +1,88 @@
+.top{
+    position:relative;
+}
+
+.top .heading{
+    position: absolute;
+    bottom:100px;
+    text-align: center;
+    
+    background: linear-gradient(to right, #024F2D, transparent);
+    padding: 25px 0px;
+    color: white;
+    font: bold 40px verdana;
+    text-shadow:  7px 7px 5px black;
+    width: 80%;
+}
+
+
+
+.social ul{
+    list-style: none;
+}
+.social ul li{
+    float:left;
+    padding:10px;
+}
+.social .fa-youtube-play:hover{
+    color:#C98211;
+}
+.mainlinks ul{
+    margin: 0;
+    padding: 0;
+}
+.mainlinks ul li{
+    transition: all 2s;
+}
+.mainlinks ul li:hover{
+    transform: translate(10px,0);
+    
+}
+.footer{
+    background: #024F2D;
+}
+.footer img{
+    width: 100px;
+    list-style: none;
+}
+
+.footer ul{
+    list-style: none;
+    
+}
+
+.footer ul li a{
+    text-decoration:none ;
+    color:white;
+}
+
+.footer li a:hover{
+    color:#C98211
+}
+
+.footer h3{
+    color: #F3F3F5;
+}
+
+.footer ul li{
+    color:#F3F3F5;
+    
+}
+
+.list ul li{
+    font-weight: bold;
+
+}
+
+.list ul a{
+    font-weight: lighter;
+}
+
+.footer p{
+    text-align: center;
+    color: white;
+}
+
+.footer hr{
+    color: white;
+}
