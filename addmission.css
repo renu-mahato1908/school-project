@@ -1,9 +1,11 @@
-@media screen and(max-width:768px) {
-    #toparea,#footer,#box{
-        width: 100%;
-    }
-    
-}
+ @media (max-width: 600px) {
+      html { font-size: 15px; } /* thoda chhota text */
+      body { padding: 12px; }
+
+      header { gap: 6px; }
+      nav ul { flex-direction: column; width: 100%; }
+      nav a { display: block; width: 100%; padding: 10px; }
+ }
 
 .toparea {
     background: white;
