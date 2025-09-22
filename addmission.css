@@ -1,4 +1,4 @@
- @media(max-width: 600px) {
+
      
 
 .toparea {
@@ -11,12 +11,12 @@
     width: 100%;
     text-align: center;
 }
- }
+ 
 .pqr{
     padding: 50px 0;
 }
 
-@media (max-width:768px) {
+
     
 
  .details {
@@ -182,4 +182,4 @@
 .footer p{
     text-align: center;
 }
- }
+ 
