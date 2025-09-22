@@ -1,3 +1,10 @@
+@media screen and(max-width:768px) {
+    #toparea,#footer,#box{
+        width: 100%;
+    }
+    
+}
+
 .toparea {
     background: white;
     padding: 0;
