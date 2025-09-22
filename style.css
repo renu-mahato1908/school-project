@@ -83,6 +83,8 @@
     width: 100%;
 }
 
+
+@media (max-width: 768px){
 .addmission{
     background: white;
     padding: 20px 0;
@@ -110,7 +112,7 @@
 .addmission button h3{
     color: #C98211;
 }
-
+}
 .sign{
     width:100px !important;
     float: right;
