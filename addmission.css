@@ -95,6 +95,14 @@
     font-weight: bold;
 }
 
+
+@media (max-width: 768px) {
+  .box, .box3, .details {
+    padding: 10px;
+    text-align: center;
+  }
+}
+
 .box3{
     background:white;
     padding: 0;
