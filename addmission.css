@@ -11,10 +11,13 @@
     width: 100%;
     text-align: center;
 }
-
+ }
 .pqr{
     padding: 50px 0;
 }
+
+@media (max-width:768px) {
+    
 
  .details {
     position: absolute;
@@ -36,7 +39,7 @@
     background: white;
     
 }
-
+}
 .xyz{
     padding: 20px 0;
     background: white;
